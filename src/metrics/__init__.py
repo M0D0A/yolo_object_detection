@@ -1,0 +1,1 @@
+from .metrics import mean_average_precision
